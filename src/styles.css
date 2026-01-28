@@ -151,6 +151,18 @@ a {
   color: rgba(229, 231, 235, 0.9);
 }
 
+.back-to-top {
+  display: inline-block;
+  margin-top: 5px;
+  font-size: 0.9em;
+  text-decoration: none;
+  color: #0066cc;
+}
+
+.back-to-top:hover {
+  text-decoration: underline;
+}
+
 @media (min-width: 720px) {
   .hero {
     padding: 2.2rem 2.4rem 2.8rem;
