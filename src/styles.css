@@ -19,3 +19,24 @@ main > h1 {
   text-align: center;
   font-size: 3.5em;
 }
+
+section {
+  margin-top: 40px;
+}
+
+section h2 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.back-to-top {
+  display: inline-block;
+  margin-top: 15px;
+  font-size: 0.9em;
+  text-decoration: none;
+  color: #0066cc;
+}
+
+.back-to-top:hover {
+  text-decoration: underline;
+}
