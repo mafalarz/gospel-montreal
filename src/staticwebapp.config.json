@@ -1,0 +1,12 @@
+{
+  "trailingSlash": "auto",
+  "routes": [
+    {
+      "route": "/francais",
+      "rewrite": "/index.fr.html"
+    }
+  ],
+  "globalHeaders": {
+    "content-security-policy": "default-src https: 'unsafe-eval' 'unsafe-inline'; object-src 'none'"
+  }
+}
