@@ -4,6 +4,10 @@
     {
       "route": "/francais",
       "rewrite": "/index.fr.html"
+    },
+    {
+      "route": "/english",
+      "rewrite": "/index.html"
     }
   ],
   "globalHeaders": {
